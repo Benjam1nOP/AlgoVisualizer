@@ -1,6 +1,6 @@
 # Sorting Visualizer
 A visualization for various sorting algorithms like merge sort, heap sort, quick sort, insertion sort, bubble sort and selection sort.<br>
-Access it using this link https://csals.github.io/Sorting-Visualizer/
+Access it using this link (https://github.com/Benjam1nOP/AlgoVisualizer)
 
 Rewrote it with **Cursor + Claude** to enhance the UI and complete all the TODOs
 
